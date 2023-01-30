@@ -9,3 +9,6 @@ git可以理解为是一个工具，这个工具帮助我们管理代码，Git�
 # git常用命令
 git init
 git status  查看当前仓库是否有修改
+git add <file>  将修改的文件添加到暂存区
+git commit -m '描述' 将暂存区的修改添加到当前分支
+
