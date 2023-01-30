@@ -26,4 +26,11 @@ git reset --hard commitId  退回到指定版本
 
 git checkout -- <file>  放弃当前工作区的修改，仅限于没有被add的文件
 
+git remote -v 查看远程仓库的关联地址
+git remote add origin <地址> 管理远程仓库
+git push origin <master> 提交本地的修改到远程仓库
+git pull origin <master> 更新远程仓库的修改到本地仓库
+git clone <地址> 克隆一个远程仓库到本地
+
+
 撒嗲世杰活动啦可是打开就好啦老师就看大龙卡就是大家快来撒娇哭了那是大伯即可撒的搬家看了春生全喂入；哦打开了那份v
