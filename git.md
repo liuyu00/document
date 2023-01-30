@@ -7,6 +7,9 @@ git可以理解为是一个工具，这个工具帮助我们管理代码，Git�
 
 
 # git常用命令
+git config --global user.name "Your Name"
+git config --global user.email "email@example.com"
+
 git init
 git status  查看当前工作区是否有修改
 git diff <file> 查看修改的内容
