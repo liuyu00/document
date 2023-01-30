@@ -21,4 +21,6 @@ git reset --hard HEAD^  退回到上一个版本
 git reset --hard HEAD^^  退回到上上一个版本
 git reset --hard commitId  退回到指定版本
 
+git checkout -- <file>  放弃当前工作区的修改，仅限于没有被add的文件
+
 撒嗲世杰活动啦可是打开就好啦老师就看大龙卡就是大家快来撒娇哭了那是大伯即可撒的搬家看了春生全喂入；哦打开了那份v
